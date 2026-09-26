@@ -1,6 +1,6 @@
 ### Hi, I'm Mehran
 
-I run two manufacturing businesses in Pakistan (Nexcrete Pavers, an ISO-certified paver and block producer, and Big Pan Foods) and spend the rest of my time building automation and AI tooling, mostly for myself and freelance clients.
+I run a manufacturing business in Pakistan (Nexcrete Pavers, an ISO-certified paver and block producer) and spend the rest of my time building automation and AI tooling, mostly for myself and freelance clients.
 
 **What I actually build:** n8n workflows, Python scripts, Excel and Power BI models, and lately AI agents on top of Claude and OpenAI. The kind that call real tools instead of just chatting.
 
