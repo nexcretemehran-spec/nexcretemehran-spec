@@ -7,5 +7,5 @@ I run a manufacturing business in Pakistan (Nexcrete Pavers, an ISO-certified pa
 **Featured project:** [ai-customer-support-agent](https://github.com/nexcretemehran-spec/ai-customer-support-agent). A support platform where the agent looks up real orders, searches a product catalog, files tickets, and hands off to a human when it should. Postgres and pgvector for RAG, runs with zero API keys in demo mode.
 
 **Elsewhere:**
-- Upwork: upwork.com/freelancers/mehranmemon
+- Upwork: upwork.com/freelancers/~011ac09b9f99c607cf
 - LinkedIn: linkedin.com/in/mehranahmed89
